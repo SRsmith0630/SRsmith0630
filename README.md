@@ -1,11 +1,5 @@
 # sobre mim
 - 👋 ola, meu nome é @SRsmith0630
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SRsmith0630/SRsmith0630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👍 Meu email de contato jonas.lima.oliveira@escola.pr.gov.br
+- 👀 Eu estou interessado em apender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar recentemente linguagem de javaScript e Scarth
